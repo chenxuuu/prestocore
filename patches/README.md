@@ -10,6 +10,7 @@ Or join #openopera on crowley.anonnet.org:6697
 
 ### General patches
 - **FalseNullFix.patch**: patch to fix some FALSE->NULL errors
+- **Delete_[]_non-array_type.patch**: patch to fix a crash that is ocurring when viewing some websites.
 - **VP9Fix.patch**: VP9 support patch (requires libvpx-1.3.0 (exactly)), no Windows support atm.
 - **DisableClickToActivate.patch**: disables "Click to activate" on Flash applets
 - **LoadImagesParser.patch**: TWEAK_LOGDOC_LOAD_IMAGES_FROM_PARSER turned into two preferences
