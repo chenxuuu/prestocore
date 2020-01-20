@@ -1,22 +1,22 @@
-# We're alive!
+# Opera 12.15 Source Code
 ---
 
-## build
+## Build
 
-apply patches for your os and use 
+Apply patches for your OS and use 
 
 * `./flower -v -j 1` - on *nix systems 
-* visual studio and sln file in `platforms` on M$ OS
+* visual studio and sln file in `platforms` on Microsoft Windows OSes
 
-## patches
+## Patches
 
-you can get all patches here: 
+You can get all patches here: 
 https://github.com/PrestoXen/openopera-patches
 
-if you found a bug in original presto code, submit issue here:
+If you found a bug in original presto code, submit issue here:
 https://github.com/PrestoXen/openopera-issues
 
-## mirrors
+## Mirrors
 
 Torrent in i2p (setup i2p-router and use i2psnark)
 ```
@@ -26,9 +26,8 @@ Please, support this torrent by seeding it, even if you already obtained source 
 
 https://notabug.org/141243/presto - mirror of old version of this repo - found on ycombinator 
 
-## discussions
+## Discussions
 
 * https://geektimes.ru/post/284588/ (ru) (many useful tips)
-* https://boards.4chan.org/g/thread/58469437/well (en)
-* https://boards.4chan.org/g/thread/58567400 (new thread)
+* https://boards.4channel.org/g/thread/74446228 (new thread)
 * https://www.reddit.com/r/operabrowser/comments/5nk69m/presto_engine_source_code_available_on_github/ (en) (many build tips translated from geektimes)
